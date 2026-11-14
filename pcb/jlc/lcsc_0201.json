@@ -1,0 +1,322 @@
+{
+ "C:100nF": {
+  "lcsc": "C76928",
+  "mpn": "GRM033R60J104KE19D",
+  "desc": "100nF 6.3V X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 2124977,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:33pF": {
+  "lcsc": "C76925",
+  "mpn": "GRM0335C1H330JA01D",
+  "desc": "33pF 50V C0G ±5% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 332547,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:10pF": {
+  "lcsc": "C272871",
+  "mpn": "CC0201JRNPO9BN100",
+  "desc": "10pF 50V NP0 ±5% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 490286,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:10nF": {
+  "lcsc": "C285010",
+  "mpn": "0201B103K250NT",
+  "desc": "10nF 25V X7R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 1157747,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:22nF": {
+  "lcsc": "C301919",
+  "mpn": "0201X223K100NT",
+  "desc": "10V 22nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 24863,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:1nF": {
+  "lcsc": "C161371",
+  "mpn": "GRM0335C1E102JA01D",
+  "desc": "1nF 25V C0G ±5% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 83871,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:1nF C0G": {
+  "lcsc": "C161371",
+  "mpn": "GRM0335C1E102JA01D",
+  "desc": "1nF 25V C0G ±5% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 83871,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:15pF": {
+  "lcsc": "C64554",
+  "mpn": "0201CG150J500NT",
+  "desc": "15pF 50V C0G ±5% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 149609,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:100pF": {
+  "lcsc": "C62550",
+  "mpn": "0201CG101J500NT",
+  "desc": "100pF 50V C0G ±5% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 1469078,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:47nF": {
+  "lcsc": "C5142564",
+  "mpn": "TCC0201X5R473K250ZT",
+  "desc": "25V 47nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 79663,
+  "type": "expand",
+  "preferred": false
+ },
+ "C:82pF": {
+  "lcsc": "C161439",
+  "mpn": "GRM0335C1H820JA01D",
+  "desc": "50V 82pF C0G ±5% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+  "stock": 16937,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:10k": {
+  "lcsc": "C473048",
+  "mpn": "0201WMF1002TEE",
+  "desc": "-55℃~+155℃ 10kΩ 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 8366132,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:51k": {
+  "lcsc": "C295806",
+  "mpn": "RC0201FR-0751KL",
+  "desc": "-55℃~+125℃ 25V 50mW 51kΩ Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 209896,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:5.1k": {
+  "lcsc": "C270344",
+  "mpn": "0201WMF5101TEE",
+  "desc": "-55℃~+155℃ 25V 5.1kΩ 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 295680,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:1.5k": {
+  "lcsc": "C270361",
+  "mpn": "0201WMF1501TEE",
+  "desc": "-55℃~+155℃ 1.5kΩ 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 501236,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:1.78k": {
+  "lcsc": "C320724",
+  "mpn": "RC-01W1781FT",
+  "desc": "-55℃~+125℃ 1.78kΩ 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 15744,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:511k": {
+  "lcsc": "C4076464",
+  "mpn": "RMCF0201FT511K",
+  "desc": "-55℃~+155℃ 50mW 511kΩ Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 8613,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:91k": {
+  "lcsc": "C321085",
+  "mpn": "RC-01W9102FT",
+  "desc": "-55℃~+125℃ 25V 50mW 91kΩ Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 42029,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:10": {
+  "lcsc": "C304508",
+  "mpn": "RC-01W10R0FT",
+  "desc": "-55℃~+125℃ 10Ω 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 521642,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:1.2M": {
+  "lcsc": "C50670191",
+  "mpn": "NQ01WMF1204TEE",
+  "desc": "-55℃~+155℃ 1.2MΩ 50mW Thick Film Resistor ±1% 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 10847,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:180k": {
+  "lcsc": "C295779",
+  "mpn": "RC0201FR-07180KL",
+  "desc": "-55℃~+125℃ 180kΩ 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 67113,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:60.4k": {
+  "lcsc": "C320980",
+  "mpn": "RC-01W6042FT",
+  "desc": "-55℃~+125℃ 25V 50mW 60.4kΩ Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 14908,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:100k": {
+  "lcsc": "C270364",
+  "mpn": "0201WMF1003TEE",
+  "desc": "-55℃~+155℃ 100kΩ 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 3105264,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:75k": {
+  "lcsc": "C295816",
+  "mpn": "RC0201FR-0775KL",
+  "desc": "-55℃~+125℃ 25V 50mW 75kΩ Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 51937,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:100": {
+  "lcsc": "C77623",
+  "mpn": "RC0201FR-07100RL",
+  "desc": "-55℃~+125℃ 100Ω 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 1837917,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:2.2k": {
+  "lcsc": "C142018",
+  "mpn": "RC0201FR-072K2L",
+  "desc": "-55℃~+125℃ 2.2kΩ 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 1217974,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:0R": {
+  "lcsc": "C473473",
+  "mpn": "0201WMF0000TEE",
+  "desc": "-55℃~+155℃ 0Ω 25V 50mW Thick Film Resistor ±1% 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 3413491,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:100R": {
+  "lcsc": "C77623",
+  "mpn": "RC0201FR-07100RL",
+  "desc": "-55℃~+125℃ 100Ω 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 1837917,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:56k": {
+  "lcsc": "C474417",
+  "mpn": "RC0201FR-0756KL",
+  "desc": "-55℃~+125℃ 25V 50mW 56kΩ Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 76158,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:1k": {
+  "lcsc": "C270365",
+  "mpn": "0201WMF1001TEE",
+  "desc": "-55℃~+155℃ 1kΩ 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 1938880,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:220R": {
+  "lcsc": "C144009",
+  "mpn": "AF0201JR-07220RL",
+  "desc": "-55℃~+155℃ 220Ω 25V 50mW Thick Film Resistor ±200ppm/℃ ±5% 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 96701,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:0": {
+  "lcsc": "C473473",
+  "mpn": "0201WMF0000TEE",
+  "desc": "-55℃~+155℃ 0Ω 25V 50mW Thick Film Resistor ±1% 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 3413491,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:4.7": {
+  "lcsc": "C473492",
+  "mpn": "0201WMJ047JTEE",
+  "desc": "-100ppm/℃~+350ppm/℃ -55℃~+155℃ 25V 4.7Ω 50mW Thick Film Resistor ±5% 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 21902,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:22": {
+  "lcsc": "C155743",
+  "mpn": "RC0201FR-0722RL",
+  "desc": "-55℃~+125℃ 22Ω 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 1540522,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:0 DNP": {
+  "lcsc": "C473473",
+  "mpn": "0201WMF0000TEE",
+  "desc": "-55℃~+155℃ 0Ω 25V 50mW Thick Film Resistor ±1% 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 3413491,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:33": {
+  "lcsc": "C320843",
+  "mpn": "RC-01W33R0FT",
+  "desc": "-55℃~+125℃ 25V 33Ω 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 3694535,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:100k DNP": {
+  "lcsc": "C270364",
+  "mpn": "0201WMF1003TEE",
+  "desc": "-55℃~+155℃ 100kΩ 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 3105264,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:39k": {
+  "lcsc": "C473053",
+  "mpn": "0201WMF3902TEE",
+  "desc": "-55℃~+155℃ 25V 39kΩ 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 16869,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:910k": {
+  "lcsc": "C423403",
+  "mpn": "0201WMF9103TEE",
+  "desc": "-55℃~+155℃ 25V 50mW 910kΩ Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 27115,
+  "type": "expand",
+  "preferred": false
+ },
+ "R:15k": {
+  "lcsc": "C295774",
+  "mpn": "RC0201FR-0715KL",
+  "desc": "-55℃~+125℃ 15kΩ 25V 50mW Thick Film Resistor ±1% ±200ppm/℃ 0201 Chip Resistor - Surface Mount ROHS",
+  "stock": 151998,
+  "type": "expand",
+  "preferred": false
+ }
+}

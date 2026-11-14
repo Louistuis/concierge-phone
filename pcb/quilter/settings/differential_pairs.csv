@@ -1,0 +1,13 @@
+positive_net_name,negative_net_name,differential_impedance,single_ended_impedance,frequency
+CC433_P,CC433_N,100,,1
+CC868_P,CC868_N,100,,1
+CC_RFP,CC_RFN,100,,1
+CC_RFP_SW,CC_RFN_SW,100,,1
+CSI_CLKP,CSI_CLKN,100,,1
+CSI_D0P,CSI_D0N,100,,1
+CSI_D1P,CSI_D1N,100,,1
+LORA_RFIP,LORA_RFIN,100,,1
+LTE_USB_DP,LTE_USB_DM,90,,1
+USB_DP,USB_DN,90,,1
+USB_HS_DP,USB_HS_DN,90,,1
+USB_JTAG_DP,USB_JTAG_DN,90,,1

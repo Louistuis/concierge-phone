@@ -1,0 +1,4 @@
+switching_converter,inductor,input_capacitor,output_capacitor
+U10,L100,C105,C106
+U12,L101,C108,C111
+U32,L313,C374,C375

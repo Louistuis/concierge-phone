@@ -1,0 +1,50 @@
+Designator,Value,Footprint,Why
+C10,DNP 33pF,C_0402_1005Metric,DNP
+C319,DNP 10pF,C_0402_1005Metric,DNP
+C326,DNP 10pF,C_0402_1005Metric,DNP
+C334,DNP 220pF C0G 50V,C_0603_1608Metric,DNP
+C368,DNP 47pF,C_0402_1005Metric,DNP
+C370,DNP 3.9pF,C_0402_1005Metric,DNP
+C371,DNP 0.3pF,C_0402_1005Metric,DNP
+C385,DNP 1.0pF,C_0402_1005Metric,DNP
+C396,DNP 2.2pF,C_0402_1005Metric,DNP
+C397,DNP 1.0pF,C_0402_1005Metric,DNP
+C5,DNP 33pF,C_0402_1005Metric,DNP
+C6,DNP 33pF,C_0402_1005Metric,DNP
+C9,DNP 33pF,C_0402_1005Metric,DNP
+J31,4308RV-404XJL,Coilcraft_4308RV,"no LCSC: [lf125] Coilcraft 4308RV-404XJL 125 kHz ferrite-rod coil, 0.40 mH +-5 %, Q 26 mi"
+J32,TP CC_GDO2,TestPoint_Pad_D1.0mm,no LCSC: [subghz] test pad: CC1101 GDO2 (raw RX data / clock out for debugging); not plac
+J33,TP GNSS_TP,TestPoint_Pad_D1.0mm,no LCSC: [gnss] test pad TIMEPULSE (shares SAFEBOOT_N via internal 1 k); not placed
+J34,TP GNSS_SAFEBOOT,TestPoint_Pad_D1.0mm,no LCSC: [gnss] test pad SAFEBOOT_N: short to GND at power-up for firmware recovery; not 
+L312,DNP 3.3nH,L_0402_1005Metric,DNP
+LS70,Same Sky CMS-16093-078S,SPK_SPRING_PADS_2P_P2.4mm,"no LCSC: CHANGED 2026-11-14: speaker = Same Sky CMS-16093-078S (16 x 9 x 3.0 mm, 8 ohm 0."
+R13,DNP 10k,R_0402_1005Metric,DNP
+R15,DNP 10k,R_0402_1005Metric,DNP
+R704,0 DNP,R_0402_1005Metric,DNP
+R705,0 DNP,R_0402_1005Metric,DNP
+R721,100k DNP,R_0402_1005Metric,DNP
+SW70,4 mm metal snap dome,SnapDome_4mm,no LCSC: CHANGED 2026-11-14 (fit_check.py): the 1.6 mm B3U tact switch did not fit under 
+TP1,TP BOOT,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP10,TP LTE_USB_DP,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP100,VBUS,TestPoint_Pad_D1.0mm,"no LCSC: bare copper test pad, nothing to place (lcsc empty on purpose)"
+TP101,VBAT,TestPoint_Pad_D1.0mm,"no LCSC: bare copper test pad, nothing to place (lcsc empty on purpose)"
+TP102,VSYS,TestPoint_Pad_D1.0mm,"no LCSC: bare copper test pad, nothing to place (lcsc empty on purpose)"
+TP103,3V3,TestPoint_Pad_D1.0mm,"no LCSC: bare copper test pad, nothing to place (lcsc empty on purpose)"
+TP104,3V8_LTE,TestPoint_Pad_D1.0mm,"no LCSC: bare copper test pad, nothing to place (lcsc empty on purpose)"
+TP105,GND,TestPoint_Pad_D1.0mm,"no LCSC: bare copper test pad, nothing to place (lcsc empty on purpose)"
+TP106,LS_FAULT,TestPoint_Pad_D1.0mm,"no LCSC: bare copper test pad, nothing to place (lcsc empty on purpose)"
+TP11,TP LTE_USB_DM,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP12,TP LTE_USB_BOOT,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP13,TP LTE_DBG_TX,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP14,TP LTE_DBG_RX,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP15,TP 1V8_LTE,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP2,TP EN,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP3,TP U0TXD,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP4,TP U0RXD,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP5,TP GND,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP6,TP C6_U0RXD,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP7,TP C6_U0TXD,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP8,TP C6_IO9,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+TP9,TP LTE_USB_VBUS,TestPoint_Pad_D1.0mm,"no LCSC: bare pad, not placed by JLC"
+U1,Waveshare ESP32-P4-Module (28101),Waveshare_ESP32-P4-Module,no LCSC: consigned to JLC or hand-soldered (no LCSC stock); pads per gen_wsp4.py; VBAT pa
+U42,DNP SAFFB1G56KB0F0A,Filter_1109-5_1.1x0.9mm,DNP
