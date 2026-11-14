@@ -414,3 +414,13 @@ ESP32-S3-Touch-AMOLED-1.8 (its STEP: glass 0, board -6.2), so the screen FPC loo
   (Quilter job): A-route-only, every part pinned (both earlier B jobs could not place).
 - Still open: download the Quilter candidate into quilter/result/ and run order_check; MUST-verify on samples: LRA tail
   pad spacing vs the spring, pogo working height, coil read range (~1-2 cm estimated); LiPol quote (Louis's OK to write).
+
+## Parked (2026-11-14 afternoon)
+
+- Quilter route-only job 1.3 FAILED after 11 min, "no candidates": router "unexpected error" (14:23) and DRC "The board data
+  could not be validated" (14:24), the same error as job 1. All three Quilter jobs have now failed on Quilter's side; their
+  support was asked on 2026-11-14 and is back Monday 2026-11-16. Nothing is routed.
+- The build is paused for now (cost for 2 phones: see pcb/QUOTE.md).
+  Options on the table when he comes back: lite board (fewer features, 4 layers, one side), off-the-shelf build, PCBWay student
+  programme (50 % off making + assembly, max $200, needs "PCBWay" on the silkscreen).
+- Public copy: github.com/Louistuis/concierge-phone (MIT), synced from this folder with private bits left out.

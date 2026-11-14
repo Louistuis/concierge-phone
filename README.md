@@ -4,7 +4,7 @@ A small candybar phone you click and talk to. It sends your voice to an AI conci
 
 ![Concept render](enclosure/v3_hero.png)
 
-**Status: work in progress. Nothing has been built or tested yet.** The board is placed and passes every check except routing, which is running now. Treat everything here as an untested design.
+**Status: paused, not built, not tested.** Board 1.3 is fully placed and passes every check except routing: the auto-router (Quilter) failed on all three runs, so the copper traces are not drawn yet. Treat everything here as an untested design. The cost to build 2 is in [pcb/QUOTE.md](pcb/QUOTE.md).
 
 ## What's inside
 
